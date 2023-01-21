@@ -6,5 +6,6 @@ class Sum{
         System.out.println(a+b);
         //this is summetion operation
         
+        //from machine
     }
 }
