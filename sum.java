@@ -8,5 +8,6 @@ class Sum{
         //this is summetion operation
 
         
+        //from machine
     }
 }
